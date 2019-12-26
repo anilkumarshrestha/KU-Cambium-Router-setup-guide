@@ -79,21 +79,21 @@ Configure->Network->WLAN
 And that's it. You are ready to rock and roll.
 
 
-Reset
+2. Reset
 
 Press and hold "Reset button" for 10 seconds.
 
-Connect Router to PoE and then PoE(LAN) to Computer
+		Connect Router to PoE and then PoE(LAN) to Computer
 
-Go to Network and Sharing center->LAN Properties->Properties->Internet Protocol Version 4->Use the following address
+		Go to Network and Sharing center->LAN Properties->Properties->Internet Protocol Version 4->Use the following address
 
-IP address: 192.168.xx.xx or 192.168.25.1 or 192.168.1.1
+		IP address: 192.168.xx.xx or 192.168.25.1 or 192.168.1.1
 
-Subnet Mask: 255.255.255.0
+		Subnet Mask: 255.255.255.0
 
-Default gateway: 192.168.25.1
+		Default gateway: 192.168.25.1
 
-DNS: 1.1.1.1
+		DNS: 1.1.1.1
 
 
 
