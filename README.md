@@ -81,7 +81,7 @@ And that's it. You are ready to rock and roll.
 
 2. Reset
 
-Press and hold "Reset button" for 10 seconds.
+		Press and hold "Reset button" for 10 seconds.
 
 		Connect Router to PoE and then PoE(LAN) to Computer
 
