@@ -1,1 +1,1 @@
-# KUCC-Cambium-e400-setup-guide
+# KU-Cambium-e400-setup-guide
