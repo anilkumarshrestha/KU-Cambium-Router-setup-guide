@@ -83,7 +83,7 @@ Reset
 
 Press and hold "Reset button" for 10 seconds.
 
-Connect Router to POE and then POE(LAN) to Computer
+Connect Router to PoE and then PoE(LAN) to Computer
 
 Go to Network and Sharing center->LAN Properties->Properties->Internet Protocol Version 4->Use the following address
 
